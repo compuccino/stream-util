@@ -1,5 +1,5 @@
 {
-    "name": "compuccino/stream-util",
+    "name": "twistor/stream-util",
     "type": "library",
     "description": "Helper utilities for dealing with streams.",
     "license": "MIT",
